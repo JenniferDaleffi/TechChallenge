@@ -73,7 +73,7 @@ Abra seu arquivo `.ipynb` e clique em **Run All** para executar todas as célula
 
 Clique em **Select Another Kernel**.
 
-<img width="978" height="478" alt="Image" src="https://github.com/user-attachments/assets/a11d8b5c-74c1-4727-aae9-3ce7568620a2" />
+<img width="609" height="91" alt="Image" src="https://github.com/user-attachments/assets/6aa4fb11-9c6b-40be-b7be-d0802c2211a6" />
 
 ---
 
@@ -81,7 +81,7 @@ Clique em **Select Another Kernel**.
 
 Selecione a opção **Colab** como ambiente de execução.
 
-<img width="978" height="478" alt="Image" src="https://github.com/user-attachments/assets/288e1829-8d3b-4be0-add7-5915f54a05d9" />
+<img width="617" height="138" alt="Image" src="https://github.com/user-attachments/assets/42d817d7-f107-4ddd-98ad-827621ceeb0d" />
 
 ---
 
@@ -106,4 +106,4 @@ Depois, escolha a opção para ser redirecionado ao VS Code.
 
 Selecione o kernel **Python (Ipykernel)** e rode o notebook normalmente.
 
-<img width="780" height="313" alt="Image" src="https://github.com/user-attachments/assets/fe1f8ad5-520c-4291-b46b-d622a1586086" />
+<img width="598" height="162" alt="Image" src="https://github.com/user-attachments/assets/1040db1d-5b6e-4bce-8ad2-ab9141615346" />
