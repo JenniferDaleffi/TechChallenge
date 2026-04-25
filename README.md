@@ -58,6 +58,7 @@ Instale a **primeira extensão** que aparecer na busca.
 Ela deve ser a oficial do Google (com verificação).
 
 <img width="678" height="183" alt="Image" src="https://github.com/user-attachments/assets/6838ebca-3319-4790-8260-2476f1b90b90" />
+
 <img width="295" height="70" alt="Image" src="https://github.com/user-attachments/assets/d99101e5-4da2-4c92-a11f-a04720f23ac7" />
 
 ## 📂 Passo 3: Abrir o notebook
