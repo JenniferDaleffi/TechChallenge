@@ -39,3 +39,79 @@
     </td>
   </tr>
 </table>
+
+# ▶️ Como rodar notebooks (.ipynb) no VS Code com Colab
+
+Siga o passo a passo abaixo para executar seus notebooks diretamente no VS Code usando o Google Colab.
+
+---
+
+## 🔧 Passo 1: Instalar extensão
+
+Clique no ícone de **Extensões** no menu lateral esquerdo e pesquise por `colab`.
+
+![Passo 1](<img width="359" height="320" alt="Image" src="https://github.com/user-attachments/assets/632e2059-946d-41d4-a958-e81b0a37b124" />)
+
+---
+
+## 📦 Passo 2: Instalar a extensão correta
+
+Instale a **primeira extensão** que aparecer na busca.  
+Ela deve ser a oficial do Google (com verificação).
+
+![Passo 2](./images/passo2.png)
+
+---
+
+## 📂 Passo 3: Abrir o notebook
+
+Abra seu arquivo `.ipynb` e clique em **Run All** para executar todas as células.
+
+![Passo 3](./images/passo3.png)
+
+---
+
+## ⚙️ Passo 4: Selecionar kernel
+
+Clique em **Select Another Kernel**.
+
+![Passo 4](./images/passo4.png)
+
+---
+
+## ☁️ Passo 5: Escolher Colab
+
+Selecione a opção **Colab** como ambiente de execução.
+
+![Passo 5](./images/passo5.png)
+
+---
+
+## 🔗 Passo 6: Conectar
+
+Clique em **Auto Connect**.
+
+![Passo 6](./images/passo6.png)
+
+---
+
+## 🔐 Passo 7: Login
+
+Faça login na sua conta Google e autorize o acesso.  
+Depois, escolha a opção para ser redirecionado ao VS Code.
+
+![Passo 7](./images/passo7.png)
+
+---
+
+## 🐍 Passo 8: Executar com Python
+
+Selecione o kernel **Python (Ipykernel)** e rode o notebook normalmente.
+
+![Passo 8](./images/passo8.png)
+
+---
+
+## 📁 Observação
+
+Crie uma pasta chamada `images` no seu projeto e coloque as imagens com nomes como:
