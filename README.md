@@ -50,7 +50,8 @@ Siga o passo a passo abaixo para executar seus notebooks diretamente no VS Code 
 
 Clique no ícone de **Extensões** no menu lateral esquerdo e pesquise por `colab`.
 
-![Passo 1](<img width="359" height="320" alt="Image" src="https://github.com/user-attachments/assets/632e2059-946d-41d4-a958-e81b0a37b124" />)
+![Passo 1]
+(<img width="359" height="320" alt="Image" src="https://github.com/user-attachments/assets/632e2059-946d-41d4-a958-e81b0a37b124" />)
 
 ---
 
