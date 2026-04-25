@@ -12,7 +12,7 @@
 
 - Renan Simões de Farias – RM371818 
 
-<h3 align="center">✒️ Case E-commerce Olist  </h3>
+<h3 align="center">✒️ Equipe 27, Case E-commerce Olist  </h3>
 
 <table align="center">
   <tr>
