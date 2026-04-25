@@ -44,14 +44,11 @@
 
 Siga o passo a passo abaixo para executar seus notebooks diretamente no VS Code usando o Google Colab.
 
----
-
 ## 🔧 Passo 1: Instalar extensão
 
 Clique no ícone de **Extensões** no menu lateral esquerdo e pesquise por `colab`.
 
-![Passo 1]
-(<img width="359" height="320" alt="Image" src="https://github.com/user-attachments/assets/632e2059-946d-41d4-a958-e81b0a37b124" />)
+<img width="359" height="320" alt="Image" src="https://github.com/user-attachments/assets/632e2059-946d-41d4-a958-e81b0a37b124" />
 
 ---
 
@@ -60,15 +57,14 @@ Clique no ícone de **Extensões** no menu lateral esquerdo e pesquise por `cola
 Instale a **primeira extensão** que aparecer na busca.  
 Ela deve ser a oficial do Google (com verificação).
 
-![Passo 2](./images/passo2.png)
-
----
+<img width="678" height="183" alt="Image" src="https://github.com/user-attachments/assets/6838ebca-3319-4790-8260-2476f1b90b90" />
+<img width="295" height="70" alt="Image" src="https://github.com/user-attachments/assets/d99101e5-4da2-4c92-a11f-a04720f23ac7" />
 
 ## 📂 Passo 3: Abrir o notebook
 
 Abra seu arquivo `.ipynb` e clique em **Run All** para executar todas as células.
 
-![Passo 3](./images/passo3.png)
+<img width="978" height="478" alt="Image" src="https://github.com/user-attachments/assets/eda6da6d-1fbb-48a0-a5d5-641b2aad9de4" />
 
 ---
 
@@ -76,7 +72,7 @@ Abra seu arquivo `.ipynb` e clique em **Run All** para executar todas as célula
 
 Clique em **Select Another Kernel**.
 
-![Passo 4](./images/passo4.png)
+<img width="978" height="478" alt="Image" src="https://github.com/user-attachments/assets/a11d8b5c-74c1-4727-aae9-3ce7568620a2" />
 
 ---
 
@@ -84,7 +80,7 @@ Clique em **Select Another Kernel**.
 
 Selecione a opção **Colab** como ambiente de execução.
 
-![Passo 5](./images/passo5.png)
+<img width="978" height="478" alt="Image" src="https://github.com/user-attachments/assets/288e1829-8d3b-4be0-add7-5915f54a05d9" />
 
 ---
 
@@ -92,7 +88,7 @@ Selecione a opção **Colab** como ambiente de execução.
 
 Clique em **Auto Connect**.
 
-![Passo 6](./images/passo6.png)
+<img width="610" height="176" alt="Image" src="https://github.com/user-attachments/assets/0a15e16f-e2ba-46a5-b8b8-7bfb9009af1a" />
 
 ---
 
@@ -101,7 +97,7 @@ Clique em **Auto Connect**.
 Faça login na sua conta Google e autorize o acesso.  
 Depois, escolha a opção para ser redirecionado ao VS Code.
 
-![Passo 7](./images/passo7.png)
+<img width="780" height="313" alt="Image" src="https://github.com/user-attachments/assets/4cc05c1c-a9c5-46ec-a52c-4196f435ef02" />
 
 ---
 
@@ -109,10 +105,4 @@ Depois, escolha a opção para ser redirecionado ao VS Code.
 
 Selecione o kernel **Python (Ipykernel)** e rode o notebook normalmente.
 
-![Passo 8](./images/passo8.png)
-
----
-
-## 📁 Observação
-
-Crie uma pasta chamada `images` no seu projeto e coloque as imagens com nomes como:
+<img width="780" height="313" alt="Image" src="https://github.com/user-attachments/assets/fe1f8ad5-520c-4291-b46b-d622a1586086" />
